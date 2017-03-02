@@ -1,4 +1,4 @@
-
+//翻译者:Kud FireMaple
 "lang" 
 { 
 "Language" "Schinese" 
@@ -315,37 +315,37 @@
 
 ////////////////////Weapon Attachment Upgrades//////////////////
 "aimpointcomp"							"红点瞄准镜"
-"aimpointcomp_desc"						"A red-dot site with high peripheral vision and fast target acquisition."
+"aimpointcomp_desc"						"视野宽广且能快速捕捉目标的红点瞄具"
 "aimpointmag2x"							"红点瞄准镜 2倍"
-"aimpointmag2x_desc"					"A red-dot site mounted with a magnifier for mid-range shooting."
+"aimpointmag2x_desc"					"安装了放大镜的红点瞄具，适合中距离射击"
 
 "weapon_upgrade_pistoldot"			"红点瞄准镜"
-"weapon_upgrade_pistoldot_desc"		"Simple red dot sight for quicker target aquisition"
+"weapon_upgrade_pistoldot_desc"		"可快速捕捉目标的简易红点瞄具"
 
 "eotech553"								"全息瞄准镜"
-"eotech553_desc"						"A holographic reticle with high peripheral vision and fast target acquisition."
+"eotech553_desc"						"具有高周边视觉且能快速捕捉目标的全息瞄具"
 "weapon_upgrade_tac_spring_dy"				"战术导轨"
-"weapon_upgrade_tac_spring_dy_desc"		"Recoil reduction:\nVertical: 10%"
+"weapon_upgrade_tac_spring_dy_desc"		"降低后坐力\n纵向偏移补偿: 10%"
 
 "weapon_upgrade_foregrip_dy"			"前握把"
-"weapon_upgrade_foregrip_dy_desc"		"Recoil Reduction:\nLateral: 25%\nVertical:12.5%"
+"weapon_upgrade_foregrip_dy_desc"		"降低后坐力\n横向偏移补偿: 25%\n纵向偏移补偿:12.5%"
 
 "weapon_upgrade_bipod_dy"			"双脚架"
-"weapon_upgrade_bipod_dy_desc"		"Recoil Reduction: \nHigh reduction of lateral/vertical"
+"weapon_upgrade_bipod_dy_desc"		"降低后坐力\n极大程度降低横向/纵向偏移"
 
 "weapon_upgrade_heavybarrel_dy"			"重型枪管"
-"weapon_upgrade_heavybarrel_dy_desc"	"Recoil Reduction:\nVertical: 10%\nDraw speed reduced by 5%"
+"weapon_upgrade_heavybarrel_dy_desc"	"降低后坐力\n纵向偏移补偿: 10%\n切换速度延长5%"
 
-"weapon_upgrade_silencer_dy"			"消声器"
-"weapon_upgrade_silencer_dy_desc"			"Reduces weapon sound footprint to enemies by 50%\n--------------\nThis is a Sernix Specific Server Bot Setting"
+"weapon_upgrade_silencer_dy"			"消音器"
+"weapon_upgrade_silencer_dy_desc"			"降低武器射击声音50%\n--------------\nSernix插件服务器专有设定"
 
-"weapon_upgrade_silencer_pistol_dy"			"消声器"
-"weapon_upgrade_silencer_pistol_dy_desc"			"Reduces weapon sound footprint to enemies by 50%\nDraw speed reduced by 5% (pistols only)\n--------------\nThis is a Sernix Specific Server Bot Setting"
+"weapon_upgrade_silencer_pistol_dy"			"消音器"
+"weapon_upgrade_silencer_pistol_dy_desc"			"降低武器射击声音50%\n切换速度延长5% (仅限手枪)\n--------------\nSernix插件服务器专有设定"
 
 "weapon_upgrade_flashlight_dy"			"手电筒"
-"weapon_upgrade_flashlight_dy_desc"		"Assists target discovery in darker settings\n--------------\nBot Mechanics:\n-Catches bots attention in your general direction(no aimbot).\n-Does NOT attract bot RPG's, does NOT make you a priority to bots.\n-ASK an admin before you spread misinformation"
+"weapon_upgrade_flashlight_dy_desc"		"有助于在暗处发现目标\n--------------\nbot‌行动规则:\n-使用此配件会吸引bot的注意力(不会触发bot自动瞄准)\n-此配件不是招来RPG的元凶,也不会导致被bot集火\n-如有疑问请联系管理员,否则请勿传播不正确的信息"
 "weapon_upgrade_lasersight_dy"			"激光瞄准器"
-"weapon_upgrade_lasersight_dy_desc"		"Aim assistance for when you are not looking down your sights\n--------------\nBot Mechanics:\n-Catches bots attention in your general direction(no aimbot).\n-Does NOT attract bot RPG's, does NOT make you a priority to bots.\n-ASK an admin before you spread misinformation"
+"weapon_upgrade_lasersight_dy_desc"		"在未使用瞄具时提供瞄准点辅助\n--------------\nbot‌行动规则:\n-使用此配件会吸引bot的注意力(不会触发bot自动瞄准)\n-此配件不是招来RPG的元凶,也不会导致被bot集火\n-如有疑问请联系管理员,否则请勿传播不正确的信息"
 //////////////////////Weapons////////////////////
 
 //////////////////////SHOTGUNS///////////
@@ -641,7 +641,7 @@
 "gear_sling_ammo_belt"					"备用副武器腰带"
 "gear_sling_ammo_belt_desc"				"启动第二副武器槽位     \n\n启动第二副武器弹药槽位"
 "gear_sling"					"腰带"
-"gear_sling_desc"				"启动第二副武器槽位\n启动第二副武器弹药槽位\nWeight based on avg. Sec2. ammo"
+"gear_sling_desc"				"启动第二副武器槽位\n启动第二副武器弹药槽位\n重量取决于第二副武器及其弹药重量的平均值"
 
 "pistol_bag_1"							"Pistol Rig A"
 "pistol_bag_1_desc"						"Vest pouch holding 2 extra sidearm magazines."
@@ -665,19 +665,19 @@
 "weapon_upgrade_magazine_extended_glock18_desc"		"Extends magsize for Glock18 to 33 rounds"
 
 "weapon_quick_reload_skill"					"快速装弹"
-"weapon_quick_reload_skill_desc"			"增加15%的装弹速度."
+"weapon_quick_reload_skill_desc"			"缩短15%的装弹速度."
 
 "weapon_quick_draw_holster_skill"				"快速拔枪"
-"weapon_quick_draw_holster_skill_desc"			"增加15%的拔枪速度."
+"weapon_quick_draw_holster_skill_desc"			"缩短15%的拔枪速度."
 
-"weapon_quick_draw_sling"				"战术腰带"
-"weapon_quick_draw_sling_desc"			"增加15% 卡宾枪/SMG冲锋枪/步枪 拔出速度."
+"weapon_quick_draw_sling"				"战术枪带"
+"weapon_quick_draw_sling_desc"			"缩短15% 卡宾枪/SMG冲锋枪/步枪 拔出速度."
 
 "fast_bolt_action"				"快速栓动"
-"fast_bolt_action_desc"			"提升15%的栓动速度."
+"fast_bolt_action_desc"			"缩短15%的栓动速度."
 
 "fast_pump_action"				"快速泵动"
-"fast_pump_action_desc"			"提升15%的泵动速度."
+"fast_pump_action_desc"			"缩短15%的泵动速度."
 //////////////////gear////////////////////////
 
 "sec_sunglasses"						"Aviators"
@@ -700,7 +700,7 @@
 "tac_leba_1_desc"						"Leg Protection"
 
 "weapon_healthkit_aus"					"战斗医疗包"
-"weapon_healthkit_aus_desc"				"复活一名中度伤的伤员\n放置: 医疗数量: 800 | 范围: 5m\n放置: 当医疗在附近时可得到增益"
+"weapon_healthkit_aus_desc"				"可复活一名中度伤的伤员\n投掷可形成医疗区域 治疗量: 800 | 范围: 5m\n医疗区域内如有医疗兵可提高治疗效率"
 //////////////gui slots/////////////////////////
 
 "weapon_slot_primary"							"主武器"
