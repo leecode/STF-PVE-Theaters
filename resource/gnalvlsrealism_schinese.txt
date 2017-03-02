@@ -648,21 +648,21 @@
 "pistol_bag_2"							"Pistol Rig B"
 "pistol_bag_2_desc"						"2 Vest pouches totalling 4 extra sidearm magazines."
 
-"weapon_upgrade_12_magazine_extended_dy_desc"		"Extend magsize to 12 rounds."
-"weapon_upgrade_30_magazine_extended_dy_desc"		"Extend magsize to 30 rounds."
-"weapon_upgrade_42_magazine_extended_dy_desc"		"Extend magsize to 42 rounds."
-"weapon_upgrade_40_magazine_extended_dy_desc"		"Extend magsize to 40 rounds."
-"weapon_upgrade_75_magazine_extended_dy_desc"		"Extend magsize to 75 round drum."
-"weapon_upgrade_15_magazine_extended_dy_desc"		"Extend magsize to 15 rounds."
+"weapon_upgrade_12_magazine_extended_dy_desc"		"扩充弹夹容量至12发."
+"weapon_upgrade_30_magazine_extended_dy_desc"		"扩充弹夹容量至30发."
+"weapon_upgrade_42_magazine_extended_dy_desc"		"扩充弹夹容量至42发."
+"weapon_upgrade_40_magazine_extended_dy_desc"		"扩充弹夹容量至40发."
+"weapon_upgrade_75_magazine_extended_dy_desc"		"扩充弹夹容量至75发的弹鼓."
+"weapon_upgrade_15_magazine_extended_dy_desc"		"扩充弹夹容量至15发."
 
 "weapon_upgrade_beta_50_dy"							"Beta Magazine"
-"weapon_upgrade_50_magazine_extended_dy_desc"		"Extend magsize to 50 round beta drum."
+"weapon_upgrade_50_magazine_extended_dy_desc"		"弹夹扩容为50发beta弹鼓.."
 
 "weapon_upgrade_beta_75_dy"							"HC Beta Magazine"
-"weapon_upgrade_75_magazine_extended_dy_desc"		"Extends magsize to high capacity 75 round beta drum."
+"weapon_upgrade_75_magazine_extended_dy_desc"		"弹夹扩容为75发大容量beta弹鼓."
 
-"weapon_upgrade_magazine_extended_usp_desc"		"Extends magsize for USP to 18 rounds"
-"weapon_upgrade_magazine_extended_glock18_desc"		"Extends magsize for Glock18 to 33 rounds"
+"weapon_upgrade_magazine_extended_usp_desc"		"扩充USP弹夹容量至18发"
+"weapon_upgrade_magazine_extended_glock18_desc"		"扩充Glock18弹夹容量至33发"
 
 "weapon_quick_reload_skill"					"快速装弹"
 "weapon_quick_reload_skill_desc"			"缩短15%的装弹速度."
